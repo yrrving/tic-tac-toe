@@ -1,0 +1,15 @@
+/* style.css */
+
+#board {
+  border-collapse: collapse;
+}
+
+#board td {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #ccc;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 48px;
+  font-weight: bold;
+}
